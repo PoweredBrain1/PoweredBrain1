@@ -2,7 +2,7 @@
 
 **IT Technician | Computer Engineering Student | Networking · Cybersecurity · Linux**
 
-IT Technician with over 20 years of experience at Fundação Salesianos, responsible for the IT infrastructure of a school environment — systems, networks, security and user support. Currently pursuing a BSc in Computer Engineering at Universidade Aberta, having completed Harvard's CS50.
+IT Technician at Fundação Salesianos, responsible for the IT infrastructure of a school environment — systems, networks, security and user support. Currently pursuing a BSc in Computer Engineering at Universidade Aberta, having completed Harvard's CS50.
 
 ### What I work on
 
